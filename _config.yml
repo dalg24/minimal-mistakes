@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Cloud Computing for Energy Science"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Computational Engineering and Energy Science"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "ORNL-CEES"
+  avatar           : "https://raw.githubusercontent.com/dalg24/cap-notebooks/master/CEES-logo.png"
+  bio              : "The Computational Engineering and Energy Science Group at Oak Ridge National Laboratory"
+  location         : "Oak Ridge, TN"
   email            :
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ORNL-CEES"
   gitlab           :
   google_plus      :
   keybase          :
