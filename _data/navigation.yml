@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "GitLab"
+    url: https://cloud.cees.ornl.gov/gitlab
   - title: "JupyterHub"
     url: https://cloud.cees.ornl.gov/jupyter
   - title: "JenkinsCI"
